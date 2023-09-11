@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/Sefrancois/nullable/compare/v1.0.1...v1.0.2) (2023-09-11)
+
+
+### deps
+
+* updated dependencies ([6a1ceed](https://github.com/Sefrancois/nullable/commit/6a1ceed4244209492635f2979b724e79d15e2c3d))
+
 ## 1.0.1 (2023-07-03)
 
 
